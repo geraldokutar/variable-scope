@@ -7,7 +7,7 @@ and the functionality
 ## Setup/Installation Requirements
 * Go git hub
 * Search for my user name(geraldokutar) click it.
-* Search for a repo called (variable-scrope) click it.
+* Search for a repo called (variable-scope) click it.
 * clone or download the Zip file
 * after cloning or downloading the zip file you now have the project.
 
