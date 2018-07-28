@@ -1,5 +1,5 @@
 # variable-scope
-#### use of different variable scopes, 
+#### use of different variable scopes, 28/7/2018
 #### By **Gerald Okuta**
 ## Description
 in this project am showing how to use different variable scropes in html file
